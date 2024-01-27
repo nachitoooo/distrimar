@@ -400,7 +400,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(175, 168, 168, 0.8);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -1905,4 +1905,9 @@ section {
   font-size: 20px;
   font-weight: 300;
   color: #062a46;
+}
+.hero-section-p{
+  font-size: 27.8px;
+  color: rgb(17, 15, 15);
+  font-weight: 400;
 }
