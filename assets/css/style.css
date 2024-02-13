@@ -1911,3 +1911,10 @@ section {
   color: rgb(17, 15, 15);
   font-weight: 400;
 }
+#clients-section-title{
+  font-size: 55px;
+}
+#clients-section-title:hover{
+  color: rgb(41, 142, 176);
+  transition: 1.3s;
+}
